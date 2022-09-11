@@ -1,0 +1,32 @@
+{
+    "1": {
+        "Number": "1",
+        "Name": "Roman",
+        "Surname": "Ivanov",
+        "Age": "17"
+    },
+    "2": {
+        "Number": "2",
+        "Name": "Semen",
+        "Surname": "Utkin",
+        "Age": "18"
+    },
+    "3": {
+        "Number": "3",
+        "Name": "Ivan",
+        "Surname": "Romanov",
+        "Age": "19"
+    },
+    "4": {
+        "Number": "4",
+        "Name": "Nikolay",
+        "Surname": "Smirnov",
+        "Age": "20"
+    },
+    "5": {
+        "Number": "5",
+        "Name": "Stepan",
+        "Surname": "Ivanov",
+        "Age": "19"
+    }
+}
